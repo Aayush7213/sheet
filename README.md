@@ -1,3 +1,7 @@
+## Deploy Link 
+
+(https://sheetu.netlify.app/)
+
 # Sheet
 
 A modern React-based spreadsheet application that mimics Google Sheets functionality, built with TypeScript and Tailwind CSS.
