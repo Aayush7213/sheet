@@ -39,6 +39,11 @@ Sheet is a web application that closely mimics the user interface and core funct
 - **Fast Processing**: Optimized for handling large datasets efficiently.
 - **Export & Import**: Supports multiple file formats like CSV, Excel, and JSON.
 
+  ### Prerequisites
+
+- Node.js (v14 or higher)
+- npm or yarn
+
 ## Installation
 
 To use this project, clone the repository and install dependencies:
@@ -89,3 +94,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Aayush - [GitHub Profile](https://github.com/Aayush7213)
 
 Project Link: [https://github.com/Aayush7213/sheet](https://github.com/Aayush7213/sheet)
+
+## Acknowledgments
+
+- Thanks to all contributors who have helped shape this project
+- Special thanks to the open-source community for their valuable tools and resources
